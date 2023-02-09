@@ -9,12 +9,8 @@
 3. БЭМ методология (включая файловую структуру Nested BEM)
 4. Кроссбраузерная адаптивная верстка (desktop first)
 
-## Планируемые доработки:
-1. Добавить новые образовательные видео
-2. Добавить базу данных для комментариев пользователей
-
-#### Макет в Figma
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+#### Ссылка на макет в Figma]
+* [Макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 #### Ссылка на проект
 * [Проект "Путешествия по России" на GitHub Pages](https://sv-rubik.github.io/russian-travel/)
