@@ -14,3 +14,7 @@
 
 #### Ссылка на проект
 * [Проект "Путешествия по России" на GitHub Pages](https://sv-rubik.github.io/russian-travel/)
+
+#### Инструкция по установке:
+1. Клонировать репозиторий git clone https://github.com/Sonyamaster1/russian-travel.git
+2. Запустить с помощью liveServer
